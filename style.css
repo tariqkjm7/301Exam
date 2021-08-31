@@ -1,0 +1,46 @@
+
+body{
+    background-image: url(https://i.ibb.co/TvjC7Wq/background.jpg);
+    background-size: cover;
+    
+
+
+}
+
+header{
+    background-color: darkgray;
+}
+h1{
+
+    font-size: 30px;
+    color: red;
+    text-align: center;
+    margin-top: -20px;
+}
+header img{
+    width: 75px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+main{
+    color: red;
+
+
+}
+footer{
+    background-color: darkgray;
+    color: red;
+    text-align: center;
+    margin-top: 580px;
+
+}
+table{
+    background-color: blanchedalmond;
+    float: right;
+    margin-right: 60%;
+
+}
+table,th,tr{
+    padding: 5px 30px;
+    border: 2px solid black;
+}
